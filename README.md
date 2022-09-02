@@ -7,7 +7,7 @@ Essentially the problem statement was this:
 ## Preparing the Data
 
 A brief description of the data:
-![](fruits-classification-with-npp/images/data.PNG)
+![](/fruits-classification-with-npp/images/data.PNG)
 
 The dataset has 7 features, of which I believe the mass, width, height and colour_score will be important in identifying the fruit_name. 
-![](fruits-classification-with-npp/images/distributions.png)
+![](/fruits-classification-with-npp/images/distributions.png)
