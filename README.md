@@ -26,16 +26,16 @@ In addition, the variables were also scaled using scikitlearn.preprocessing.MinM
 <img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/logistic.PNG" width="300" height="150">
 
 ### 2) Decision Tree classifier
-<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/Tree.PNG" width="300" height="100">
+<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/Tree.PNG" width="300" height="150">
 
 ### 3) K-Nearest Neighbours
-<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/K-nearest.PNG" width="300" height="100">
+<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/K-nearest.PNG" width="300" height="150">
 
 ### 4) Linear Discriminant Analysis
-<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/Linear%20discriminant.PNG" width="300" height="100">
+<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/Linear%20discriminant.PNG" width="300" height="150">
 
 ### 5) Gaussian Naive Bayes
-<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/Gaussian.PNG" width="300" height="100">
+<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/Gaussian.PNG" width="300" height="150">
 
 ### 6) Support Vector Machine
-<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/Support%20Vector%20Machine.PNG" width="300" height="100">
+<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/Support%20Vector%20Machine.PNG" width="300" height="150">
