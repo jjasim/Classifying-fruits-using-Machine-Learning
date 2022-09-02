@@ -5,4 +5,9 @@ Essentially the problem statement was this:
 > Can we train a classifier to distinguish between Apples, Lemons, Oranges and Mandarin oranges?
 
 ## Preparing the Data
-The given data had 
+
+A brief description of the data:
+![](fruits-classification-with-npp/images/data.PNG)
+
+The dataset has 7 features, of which I believe the mass, width, height and colour_score will be important in identifying the fruit_name. 
+![](fruits-classification-with-npp/images/distributions.png)
