@@ -13,3 +13,5 @@ A brief description of the data:
 The dataset has 7 features, of which I believe the mass, width, height and colour_score will be important in identifying the fruit_name. 
 
 <img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/distributions.png" width="300" height="300">
+
+The mass, height and colour_score seem to be fairly gaussian. Mass and width as well as mass and height seems to have a linear relationship.
