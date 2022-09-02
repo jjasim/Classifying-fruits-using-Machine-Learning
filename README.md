@@ -8,8 +8,8 @@ Essentially the problem statement was this:
 
 A brief description of the data:
 
-<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/data.PNG" width="600" height="200">
+<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/data.PNG" width="300" height="100">
 
 The dataset has 7 features, of which I believe the mass, width, height and colour_score will be important in identifying the fruit_name. 
 
-<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/distributions.png" width="600" height="600">
+<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/distributions.png" width="300" height="300">
