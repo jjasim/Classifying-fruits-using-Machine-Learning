@@ -28,7 +28,7 @@ In addition, the variables were also scaled using scikitlearn.preprocessing.MinM
 ### 2) Decision Tree classifier
 <img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/Tree.PNG" width="300" height="150">
 
-### 3) **K-Nearest Neighbours (Best Model)
+### 3) **K-Nearest Neighbours (Best Model)**
 <img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/K-nearest.PNG" width="300" height="150">
 
 ### 4) Linear Discriminant Analysis
