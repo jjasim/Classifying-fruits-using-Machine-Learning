@@ -1,1 +1,1 @@
-# fruits-classification-with-npp
+# Classifying fruits with NPP algorithm
