@@ -23,7 +23,7 @@ In addition, the variables were also scaled using scikitlearn.preprocessing.MinM
 
 ## Models
 ### 1) Logistic Regression
-<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/logistic.PNG" width="300" height="100">
+<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/logistic.PNG" width="300" height="150">
 
 ### 2) Decision Tree classifier
 <img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/Tree.PNG" width="300" height="100">
