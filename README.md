@@ -7,7 +7,9 @@ Essentially the problem statement was this:
 ## Preparing the Data
 
 A brief description of the data:
+
 ![](/images/data.PNG)
 
 The dataset has 7 features, of which I believe the mass, width, height and colour_score will be important in identifying the fruit_name. 
+
 ![](/images/distributions.png)
