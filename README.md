@@ -54,8 +54,8 @@ K is a decently sized value and although K = 5 < √59, the plot below shows tha
 ## Issues
 As you can see, apples and oranges still cluster quite closely together, with some oranges having the potential to be misidentified as apples. I think much of this problem is due to the fact that I used uniform weights in the classification.
 
+<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/clustering.PNG" width="300" height="220">
+
 In the case of apples and oranges, since they are generally of a similar spherical shape and size, there could have been similarities in the mass, width and height variables confounding the classification by making them seem more closer to one another than they actually are.
 
 Theoretically, between apples and oranges, the colours should play a greater role in distinguishing them as they have starkly different colours. So this model can be improved by assigning a greater weight to the colour_score variable. 
-
-<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/clustering.PNG" width="300" height="220">
