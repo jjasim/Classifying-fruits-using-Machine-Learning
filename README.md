@@ -9,7 +9,7 @@ Essentially the problem statement was this:
 A brief description of the data:
 
 <img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/data.PNG" width="300" height="100">
-<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/Table.PNG" width="300" height="300">
+<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/Table.PNG" width="300" height="100">
 
 The dataset has 7 features, of which I believe the mass, width, height and colour_score will be important in identifying the fruit_name. 
 
