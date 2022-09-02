@@ -3,3 +3,6 @@ While I was delving into various classification problems, I came across this int
 
 Essentially the problem statement was this:
 > Can we train a classifier to distinguish between Apples, Lemons, Oranges and Mandarin oranges?
+
+## Preparing the Data
+The given data had 
