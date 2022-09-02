@@ -23,13 +23,19 @@ In addition, the variables were also scaled using scikitlearn.preprocessing.MinM
 
 ## Models
 ### 1) Logistic Regression
+<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/logistic.PNG" width="300" height="100">
 
 ### 2) Decision Tree classifier
+<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/Tree.PNG" width="300" height="100">
 
 ### 3) K-Nearest Neighbours
+<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/K-nearest.PNG" width="300" height="100">
 
 ### 4) Linear Discriminant Analysis
+<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/Linear%20discriminant.PNG" width="300" height="100">
 
 ### 5) Gaussian Naive Bayes
+<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/Gaussian.PNG" width="300" height="100">
 
 ### 6) Support Vector Machine
+<img src="https://github.com/jjasim/fruits-classification-with-npp/blob/main/images/Support%20Vector%20Machine.PNG" width="300" height="100">
